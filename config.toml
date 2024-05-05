@@ -1,0 +1,41 @@
+name = "Distance Ladder"
+help = """This python library can train an LSTM based network on the Pantheon data and generate predictions.
+
+Usage: python main.py --pairs [number] --output [directory name]
+
+______________________________________________________________
+
+Options:
+    --pairs [num] this gives the sequence length for the model.
+    --output [dir_name] is the output directory to write weights and statistics in (Stored in ./outputs/dir_name)\n
+
+    e.g. python main.py -p 25 --output spock_25
+
+    for training the model on the dataset followed by predictions and writing to ./outputs/spock_25
+
+______________________________________________________________
+"""
+
+[files]
+DATA = "./data/pp.dat"
+COV = "./data/pantheon.cov"
+SAVE_DIR = "./outputs/"
+
+[cdm]
+H0 = 70
+om0 = 0.3
+MB = -19.35
+c = 3E5
+
+[dataset]
+TRAIN_SPLIT = 0.8
+TRAIN_SIZE = 10000
+PAIRS = 45
+
+[params]
+HIDDEN_DIM = 16
+NUM_LAYERS = 2
+LR = 5e-4
+BATCH_SIZE = 32
+EPOCHS = 100
+SUPPORT = 100
