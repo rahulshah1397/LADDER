@@ -1,5 +1,12 @@
 # ![](./utils/logo.png)
 
+.. image:: https://img.shields.io/badge/GitHub-LADDER-blue.svg?style=flat
+    :target: https://github.com/rahulshah1397/LADDER
+.. image:: http://img.shields.io/badge/license-MIT-blue.svg?style=flat
+    :target: https://github.com/rahulshah1397/LADDER/blob/main/LICENSE
+.. image:: http://img.shields.io/badge/arXiv-2401.17029-orange.svg?style=flat
+    :target: https://arxiv.org/abs/2401.17029
+
 ### Contributing:
   - **Primary**: [Soumadeep Saha](https://www.github.com/espressovi), Indian Statistical Institute, Kolkata, India
   - **Additional**: 
@@ -64,6 +71,23 @@ python3 main.py -p 25 --output spock_25
 ```
 
 For training the spock model on the dataset followed by predictions and writing to ./outputs/spock_25"""
+
+## Academic Use
+
+If you use the provided code in the preparation of a manuscript for academic publication, please cite it as (BiBTeX):
+
+```
+@article{shah2024ladderrevisitingcosmicdistance,
+      title={LADDER: Revisiting the Cosmic Distance Ladder with Deep Learning Approaches and Exploring its Applications}, 
+      author={Rahul Shah and Soumadeep Saha and Purba Mukherjee and Utpal Garain and Supratik Pal},
+      year={2024},
+      eprint={2401.17029},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.CO},
+      url={https://arxiv.org/abs/2401.17029}, 
+}
+```
+Any commmercial/non-commercial use is permitted with appropriate citation. If a significant portion of the code is used/redistributed it must include a copy of the LICENSE file.
 
 ## Files:
 
