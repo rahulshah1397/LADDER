@@ -1,11 +1,8 @@
 # ![](./utils/logo.png)
 
-.. image:: https://img.shields.io/badge/GitHub-LADDER-blue.svg?style=flat
-    :target: https://github.com/rahulshah1397/LADDER
-.. image:: http://img.shields.io/badge/license-MIT-blue.svg?style=flat
-    :target: https://github.com/rahulshah1397/LADDER/blob/main/LICENSE
-.. image:: http://img.shields.io/badge/arXiv-2401.17029-orange.svg?style=flat
-    :target: https://arxiv.org/abs/2401.17029
+[![Github](https://img.shields.io/badge/GitHub-LADDER-blue.svg?style=flat)](https://github.com/rahulshah1397/LADDER)
+[![LICENSE](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/rahulshah1397/LADDER/blob/main/LICENSE)
+[![Github](http://img.shields.io/badge/arXiv-2401.17029-orange.svg?style=flat)](https://arxiv.org/abs/2401.17029)
 
 ### Contributing:
   - **Primary**: [Soumadeep Saha](https://www.github.com/espressovi), Indian Statistical Institute, Kolkata, India
