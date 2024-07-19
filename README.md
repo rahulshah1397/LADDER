@@ -74,15 +74,20 @@ For training the spock model on the dataset followed by predictions and writing 
 If you use the provided code in the preparation of a manuscript for academic publication, please cite it as (BiBTeX):
 
 ```
-@article{shah2024ladderrevisitingcosmicdistance,
-      title={LADDER: Revisiting the Cosmic Distance Ladder with Deep Learning Approaches and Exploring its Applications}, 
-      author={Rahul Shah and Soumadeep Saha and Purba Mukherjee and Utpal Garain and Supratik Pal},
-      year={2024},
-      eprint={2401.17029},
-      archivePrefix={arXiv},
-      primaryClass={astro-ph.CO},
-      url={https://arxiv.org/abs/2401.17029}, 
+@article{Shah:2024slr,
+    author = "Shah, Rahul and Saha, Soumadeep and Mukherjee, Purba and Garain, Utpal and Pal, Supratik",
+    title = "{LADDER: Revisiting the Cosmic Distance Ladder with Deep Learning Approaches and Exploring its Applications}",
+    eprint = "2401.17029",
+    archivePrefix = "arXiv",
+    primaryClass = "astro-ph.CO",
+    doi = "10.3847/1538-4365/ad5558",
+    journal = "Astrophys. J. Suppl. Ser.",
+    volume = "...",
+    number = "...",
+    pages = "...",
+    year = "2024"
 }
+
 ```
 Any commmercial/non-commercial use is permitted with appropriate citation. If a significant portion of the code is used/redistributed it must include a copy of the LICENSE file.
 
