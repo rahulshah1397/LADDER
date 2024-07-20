@@ -3,6 +3,7 @@
 [![Github](https://img.shields.io/badge/GitHub-LADDER-blue.svg?style=flat)](https://github.com/rahulshah1397/LADDER)
 [![LICENSE](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/rahulshah1397/LADDER/blob/main/LICENSE)
 [![Github](http://img.shields.io/badge/arXiv-2401.17029-orange.svg?style=flat)](https://arxiv.org/abs/2401.17029)
+[![Zenodo](https://img.shields.io/badge/Zenodo-10.5281/zenodo.11175054-green.svg?style=flat)](https://zenodo.org/records/11175054)
 
 ### Contributing:
   - **Primary**: [Soumadeep Saha](https://www.github.com/espressovi), Indian Statistical Institute, Kolkata, India
