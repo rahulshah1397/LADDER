@@ -2,8 +2,9 @@
 
 [![Github](https://img.shields.io/badge/GitHub-LADDER-blue.svg?style=flat)](https://github.com/rahulshah1397/LADDER)
 [![LICENSE](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/rahulshah1397/LADDER/blob/main/LICENSE)
-[![Github](http://img.shields.io/badge/arXiv-2401.17029-orange.svg?style=flat)](https://arxiv.org/abs/2401.17029)
-[![Zenodo](https://img.shields.io/badge/Zenodo-10.5281/zenodo.11175054-green.svg?style=flat)](https://zenodo.org/records/11175054)
+[![Zenodo](https://img.shields.io/badge/Zenodo-10.5281/zenodo.11175054-blue.svg?style=flat)](https://zenodo.org/records/11175054)
+[![arXiv](http://img.shields.io/badge/arXiv-2401.17029-orange.svg?style=flat)](https://arxiv.org/abs/2401.17029)
+[![Journal](http://img.shields.io/badge/The%20Astrophysical%20Journal%20Supplement%20Series-10.3847/1538--4365/ad5558-orange.svg?style=flat)](https://doi.org/10.3847/1538-4365/ad5558)
 
 ### Contributing:
   - **Primary**: [Soumadeep Saha](https://www.github.com/espressovi), Indian Statistical Institute, Kolkata, India
@@ -83,12 +84,11 @@ If you use the provided code in the preparation of a manuscript for academic pub
     primaryClass = "astro-ph.CO",
     doi = "10.3847/1538-4365/ad5558",
     journal = "Astrophys. J. Suppl. Ser.",
-    volume = "...",
-    number = "...",
-    pages = "...",
+    volume = "273",
+    number = "2",
+    pages = "27",
     year = "2024"
 }
-
 ```
 Any commmercial/non-commercial use is permitted with appropriate citation. If a significant portion of the code is used/redistributed it must include a copy of the LICENSE file.
 
