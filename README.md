@@ -79,7 +79,7 @@ If you use the provided code in the preparation of a manuscript for academic pub
 ```
 @article{Shah:2024slr,
     author = "Shah, Rahul and Saha, Soumadeep and Mukherjee, Purba and Garain, Utpal and Pal, Supratik",
-    title = "{LADDER: Revisiting the Cosmic Distance Ladder with Deep Learning Approaches and Exploring its Applications}",
+    title = "{LADDER: Revisiting the Cosmic Distance Ladder with Deep Learning Approaches and Exploring Its Applications}",
     eprint = "2401.17029",
     archivePrefix = "arXiv",
     primaryClass = "astro-ph.CO",
