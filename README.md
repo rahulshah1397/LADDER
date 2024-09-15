@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/badge/GitHub-LADDER-blue.svg?style=flat)](https://github.com/rahulshah1397/LADDER)
 [![LICENSE](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/rahulshah1397/LADDER/blob/main/LICENSE)
 [![Zenodo](https://img.shields.io/badge/Zenodo-10.5281/zenodo.11175054-blue.svg?style=flat)](https://zenodo.org/records/11175054)
-[![ASCL](https://img.shields.io/badge/ascl-2408.007-blue.svg?)](https://ascl.net/2408.007)
+[![ASCL](https://img.shields.io/badge/ASCL-2408.007-blue.svg?)](https://ascl.net/2408.007)
 
 [![arXiv](http://img.shields.io/badge/arXiv-2401.17029-orange.svg?style=flat)](https://arxiv.org/abs/2401.17029)
 [![Journal](http://img.shields.io/badge/The%20Astrophysical%20Journal%20Supplement%20Series-10.3847/1538--4365/ad5558-orange.svg?style=flat)](https://doi.org/10.3847/1538-4365/ad5558)
